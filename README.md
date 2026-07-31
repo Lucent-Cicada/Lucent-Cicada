@@ -1,1 +1,1 @@
-<img src="assets/lucent-cicada.png" width="200">
+<img src="assets/lucent-cicada.png" width="1000">
